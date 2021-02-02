@@ -11,7 +11,7 @@
 ### 3.6 Ecuaciones diferenciales con coeficientes variables
  - **3.6.1 La ecuación de Cauchy-Euler**
 ### 3.7 Transformada de Laplace para ecuaciones de orden superior
-### 3.8 Alpicaciones
+### 3.8 Aplicaciones
 - **3.8.1 Sistema masa-resorte: movimiento libre no amortiguado y amortiguado**
 - **3.8.2 Coeficientes Indeterminados: métodos de superposición y operadores diferenciales**
 - **3.8.3 Sistema masa-resorte: movimiento forzado**
